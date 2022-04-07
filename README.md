@@ -1,5 +1,9 @@
 # CrashTools
 dSYM解析，Logan日志解析
+
+当前开发进度
+![current](current.png)
+
 ## 技术栈
 * SwiftUI
 * Combine
